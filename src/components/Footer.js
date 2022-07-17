@@ -63,7 +63,7 @@ const Footer = () => {
             }}>
             Made with ❤️ by{" "}
             <a href="https://www.linkedin.com/in/khushi-sahu-01680a1b2/">
-              Khushi Sahu
+              Khushi Sahu👩‍💻
             </a>
           </h3>
           <h4
