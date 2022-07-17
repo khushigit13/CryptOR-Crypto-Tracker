@@ -48,7 +48,7 @@ function Banner() {
               marginBottom: 15,
               fontFamily: "Montserrat",
             }}>
-            CryptOR hunter - The Crypto Trackor App
+            CryptOR - The Crypto Trackor App
           </Typography>
           <Typography
             variant="subtitle2"
